@@ -1,0 +1,9 @@
+# Third-party packages imported by notebooks/brats_vgg16_tumor_proportion_regression.ipynb.
+# google.colab is also imported, but only exists inside Google Colab.
+numpy
+pandas
+nibabel
+torch
+torchvision>=0.13  # VGG16_Weights API
+scikit-learn
+matplotlib

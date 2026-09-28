@@ -1,0 +1,6 @@
+# BraTS MRI data (DATA_DIR default) and generated outputs (OUTPUT_DIR default)
+data/
+outputs/
+*.pt
+*.pkl
+.ipynb_checkpoints/
